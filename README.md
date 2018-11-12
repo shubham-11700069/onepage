@@ -1,10 +1,11 @@
 <h1>shubham-11700069.github.io</h1>
 
-![Direct Link](https://shubham-11700069.github.io)
 
 <h2 align="center">Digital Resume</h2>
 
 <p align="center">
-  <i>Hi There, </i></p>
+  <b><i>Hi There, <br>I hope You enjoy my personal github page. 
+    </i></b></p>
 
 
+![Direct Link](https://shubham-11700069.github.io)
