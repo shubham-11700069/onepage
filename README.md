@@ -4,7 +4,7 @@
 <h2 align="center">Digital Resume</h2>
 
 <p align="center">
-  <b><i>Hi There, <br>I hope You enjoy my personal github page. 
+  <b><i>Hi There, <br>I hope You enjoy visiting my github page. 
     </i></b>
 </p>
 
