@@ -5,7 +5,7 @@
 <h2 align="center">Digital Resume</h2>
 
 
-*<p align="center">
-Hi There, </p>
-*
+<p align="center">
+  <i>Hi There, </i></p>
+
 
