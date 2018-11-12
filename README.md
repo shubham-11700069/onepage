@@ -6,7 +6,6 @@
 <p align="center">
   <b><i>Hi There, <br>I hope You enjoy my personal github page. 
     </i></b>
-  <a href="https://shubham-11700069.github.io" style="color:red;">Direct Link</a>
 </p>
 
 
