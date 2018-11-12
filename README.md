@@ -3,7 +3,7 @@
 <h2>Digital Resume</h2>
 <br>
  <p align="center">
- >Hi There, </p>
+ <i>Hi There,</i> </p>
   </B>
 </body>
 </html>
