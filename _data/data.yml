@@ -8,13 +8,13 @@ sidebar:
 
     # Profile information
     name: Shubham Garad
-    tagline: Computer Vision and Machine Learning researcher
+    tagline: Computer Science Engineer
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: theshubhamgarad@gmail.com
     phone: +919881283056
-    website: shubham-11700069.github.io/publications/ #do not add http://
+    #website: shubham-11700069.github.io/publications/ #do not add http://
     linkedin: shubham-garad
     github: shubham-11700069
     gitlab:
@@ -22,15 +22,15 @@ sidebar:
     twitter: 
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
-    goodreads: 79971722-shubham-garad # Number-Username, e.g. 123456-alandoe
+    #goodreads: 79971722-shubham-garad # Number-Username, e.g. 123456-alandoe
 
     languages:
       - idiom: English
         level: Fluent
-
+        
       - idiom: Marathi
         level: Native
-
+        
       - idiom: Hindi
         level: Native
 
@@ -55,14 +55,14 @@ career-profile:
 
 
 education:
-    - degree: Bachelor of Applied Scientists full-time at AWS
-      university: Germany
-      time: 2020 Oct - current
+    - degree: Bachelor of Computer Science
+      university: LPU
+      time: 2017 Aug - 2020 May
       details: |
       
-    - degree: Applied Scientists Intern at AWS
-      university: P. Perona, Pasadena, CA, USA
-      time: 2019 July - Dec
+    - degree: Diploma in Electrical Engineering
+      university: PLGPL
+      time: 2014 Jun - 2017 May
       details: |
 
 
@@ -82,9 +82,7 @@ experiences:
 
 projects:
     title: Projects
-    intro: >
-      #You can list your side projects or open source libraries in this
-      
+    
       - title: Garud
         #link: "#"
         tagline: "An Autonomus emotionally intelligent UAV enabled to take voice commands along with object recognition and follow me mode. The UAV can be used for security and surveillance."
