@@ -22,7 +22,7 @@ sidebar:
     twitter: 
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
-    #goodreads: 79971722-shubham-garad # Number-Username, e.g. 123456-alandoe
+    goodreads: 79971722-shubham-garad # Number-Username, e.g. 123456-alandoe
 
     languages:
       - idiom: English
@@ -50,8 +50,10 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Currently full-time Data Analyst at InMobi. After a Bachelor degree at LPU (Punjab, India) and Diplome in Elecctrical Engineering (Maharashtra, India), 
-      I pursued my passion for Data Science as Data Analyst intern at InMobi in Banglore under the supervision of Sharan PC.
+        Efficient Data Analyst with 2 Years of experience who excels at compiling, analyzing, validating and modeling peta bytes of data sets to enhance business operational 
+        performance. Specializes at designing data input structures, statistical models, building and Automating big data Extract Transform Load (ETL) pipelines, tackling 
+        challenging architectural and scalability problems by Research and Critical Thinking. Highly-skilled in data visualization, machine learning.
+
 
 education:
     - degree: Bachelor of Computer Science
