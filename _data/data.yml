@@ -91,30 +91,15 @@ skills:
     toolset:
       - name: Python
         level: 100%
-
       - name: PySpark
         level: 90%
-
       - name: Scala
         level: 70%
-
       - name: Hadoop
         level: 80%
-
       - name: Hive
         level: 70%
-
-      - name: Azure
-        level: 75%
-
-      - name: AWS s3
-        level: 70%
-
       - name: SQL
         level: 100%
-
-      - name: Excel
-        level: 100%
-
       - name: PowerBI
         level: 85%
