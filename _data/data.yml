@@ -76,21 +76,14 @@ experiences:
           - Led automation of the analysis jobs
           - Awarded by Emmy - Avengers Award for demonstrating noteworthy results
 projects:
-    title: Projects
-    #intro: >
-      #You can list your side projects or open source libraries in this
-      #section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      #Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-
-    assignments:
-      - title: Garud
-        tagline: "An Autonomus emotionally intelligent UAV enabled to take voice commands along with object recognition and follow me mode. The UAV can be used for security and surveillance."
-
-      - title: Grey wolf optimization (GWO)
-        tagline: "Grey wolf optimization algorithm (GWO) is a new meta-heuristic optimization technology. Its principle is to imitate the behavior of grey wolves in nature to hunt in a cooperative way. Project was to implement the project in different programming languages and compare the performance"
-
-      - title: Electrical Panel Design
-        tagline: "Building an experiment center for university students where various Electrical load balancing experiments can be performed."
+    title: Garud
+    intro: An Autonomus emotionally intelligent UAV enabled to take voice commands along with object recognition and follow me mode. The UAV can be used for security and surveillance.
+    
+    title: Grey wolf optimization (GWO)
+    intro: "Grey wolf optimization algorithm (GWO) is a new meta-heuristic optimization technology. Its principle is to imitate the behavior of grey wolves in nature to hunt in a cooperative way. Project was to implement the project in different programming languages and compare the performance"
+    
+    title: Electrical Panel Design
+    intro: "Building an experiment center for university students where various Electrical load balancing experiments can be performed."
 
       
 
