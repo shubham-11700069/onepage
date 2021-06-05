@@ -13,7 +13,7 @@ sidebar:
 
     # Sidebar links
     email: theshubhamgarad@gmail.com
-    phone: |+919881283056
+    phone: 9881283056
     #website: shubham-11700069.github.io/publications/ #do not add http://
     linkedin: shubham-garad
     github: shubham-11700069
@@ -78,7 +78,7 @@ experiences:
           - Led automation of the analysis jobs
           - Awarded by Emmy - Avengers Award for demonstrating noteworthy results
 skills:
-    title: |Skills
+    title: Skills
 
     toolset:
       - name: Python
