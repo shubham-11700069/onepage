@@ -129,6 +129,6 @@ projects:
         tagline: "Grey wolf optimization algorithm (GWO) is a new meta-heuristic optimization technology. Its principle is to imitate the behavior of grey wolves in nature to hunt in a cooperative way. Project was to implement the project in different programming languages and compare the performance"
 
       - title: Electrical Panel Design
-        tagline: "Building an experiment center for university students where various Electrical load balancing experiments can be performed."
+        tagline: "Built an experiment center for university students where various Electrical load balancing experiments for DC shunt generator and AC synchronous generator can be performed."
 
      
