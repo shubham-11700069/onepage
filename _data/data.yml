@@ -79,39 +79,6 @@ experiences:
           - Improved the team efficiency by 40%
           - Led automation of the analysis jobs
           - Awarded by Emmy - Avengers Award for demonstrating noteworthy results
-skills:
-    title: Skills
-
-    toolset:
-      - name: Python
-        level: 100%
-
-      - name: PySpark
-        level: 90%
-
-      - name: Scala
-        level: 70%
-
-      - name: Hadoop
-        level: 80%
-
-      - name: Hive
-        level: 70%
-
-      - name: Azure
-        level: 75%
-
-      - name: AWS s3
-        level: 70%
-
-      - name: SQL
-        level: 100%
-
-      - name: Excel
-        level: 100%
-
-      - name: PowerBI
-        level: 85%
         
         
 projects:
@@ -132,3 +99,27 @@ projects:
         tagline: "Built an experiment center for university students where various Electrical load balancing experiments for DC shunt generator and AC synchronous generator can be performed."
 
      
+skills:
+    title: Skills &amp; Proficiency
+
+    toolset:
+      - name: Python & Django
+        level: 98%
+
+      - name: Javascript & jQuery
+        level: 98%
+
+      - name: Angular
+        level: 98%
+
+      - name: HTML5 & CSS
+        level: 95%
+
+      - name: Ruby on Rails
+        level: 85%
+
+      - name: Sketch & Photoshop
+        level: 60%
+
+footer: >
+    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
